@@ -1,68 +1,45 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> LabeX </h1>
 
-## Available Scripts
+<p align="center"><img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=flat&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=styled-components&message=lib&color=pink&style=flat&logo=STYLED-COMPONENTS"/>
+<img src="https://img.shields.io/static/v1?label=axios&message=lib&color=black&style=flat&logo=AXIOS"/>
+<img src="https://img.shields.io/static/v1?label=router&message=lib&color=blue&style=flat&logo=ROUTER"/></p>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Descrição do Projeto
+<p align="justify"> O projeto Labecar é um dos trabalhos que desenvolvi no curso da escola Labenu. É um site de compra e venda de veículos, postar anúncio, buscar modelos, buscar por preço, classificar por preço crescente e decrescente.</p>
+<p align="justify">O projeto consiste em comunicação com APIs externas que foram elaboradas pelos professores da escola.</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### O que a aplicação é capaz de fazer :checkered_flag:
+- Como usuário: :ok_woman:
+    - Postar anúncio.
+    - Ver página de anúncios cadastrados.
+    - Filtrar por nome ou valor.
+    - Filtrar com preço mínimo e preço máximo.
+    - Classificar por crescente ou decrescente.
+    
+## Deploy da Aplicação com Surge: :dash:
 
-### `npm test`
+> https://labecar-airton.surge.sh
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Pré-requisitos :warning:
 
-### `npm run build`
+- [Node](https://nodejs.org/en/download/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como rodar a aplicação :arrow_forward:
+    1. Faça o clone do projeto
+    2. Acesse a pasta na qual foi clonado
+    3. `npm install` para instalar todas as dependências
+    4. `npm run start` para rodas localmente o projeto
+    5. `npm run build` para gerar uma versão estática do projeto (que ficará na pasta `build`)
+    
+## Libs utilizadas :books:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- React.js
+- Router
+- Styled-Components
+- Axios
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Contato
+- [Linkedin](https://www.linkedin.com/in/airton-lopes-dos-santos/)
