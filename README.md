@@ -21,7 +21,7 @@
     
 ## Deploy da Aplicação com Surge: :dash:
 
-> https://labecar-airton.surge.sh
+> https://labex-airton.surge.sh/
 
 ## Pré-requisitos :warning:
 
