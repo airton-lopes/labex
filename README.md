@@ -8,7 +8,7 @@
 
 
 ## Descrição do Projeto
-<p align="justify"> A aplicação GoSpace é um dos trabalhos que desenvolvi no curso da escola Labenu. É um site de viagens interplanetárias, no qual o usuário pode olhar viagens vigentes e se candidatar. Além disso, também temos a sessão de administrador, que pode realizar ações exclusivas como exclusão de viagens, criação e aprovação de candidatos. A aplicação possuí suporte responsivo para mobile e foi pensada para ser simples e objetiva.</p>
+<p align="justify"> A aplicação LabeX é um dos trabalhos que desenvolvi no curso da escola Labenu. É um site de viagens interplanetárias, no qual o usuário pode olhar viagens vigentes e se candidatar. Além disso, também temos a sessão de administrador, que pode realizar ações exclusivas como criação e aprovação de candidatos.</p>
 <p align="justify">O projeto consiste em comunicação com APIs externas que foram elaboradas pelos professores da escola.</p>
 
 ### O que a aplicação é capaz de fazer :checkered_flag:
@@ -18,15 +18,14 @@
     
 - Como administrador: :cop:
     - Criar novas viagens
-    - Excluir viagens
     - Aprovar ou recusar candidaturas
     
 ## Deploy da Aplicação com Surge: :dash:
 
 > https://labex-airton.surge.sh/
 <p>Acesso a área adm</p>
-<p>Usuário: hyago@gmail.com</p>
-<p>senha: 123456</p>
+<p>Usuário: airton@gmail.com</p>
+<p>senha: a1</p>
 
 ## Pré-requisitos :warning:
 
